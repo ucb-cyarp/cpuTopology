@@ -1,4 +1,6 @@
 # cpuTopology
+Zenodo Concept DOI: [![Concept DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6526461.svg)](https://doi.org/10.5281/zenodo.6526461)
+
 CPU Topology Scripts from Benchmarking
 
 ## Citing This Software:
